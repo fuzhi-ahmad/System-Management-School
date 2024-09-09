@@ -19,8 +19,8 @@ Dengan menggunakan Sistem Manajemen Sekolah, sekolah dapat meningkatkan efisiens
 
 #NOTE: 
 Login as:admin
-username: admin@gmail.com
-pass: admin
+username: admin@gmail.com / ahmad@gmail.com
+pass: admin / ahmad
 
 Login as:guru
 username: nip
