@@ -1,0 +1,19 @@
+NOTE
+ABSEN SISWA IIBS AL BAROKAH
+
+admin:
+username: admin@gmail.com
+pass: admin
+
+guru:
+username: nip
+Pass: nip
+level: guru
+
+siswa:
+username: nis
+Pass:nis
+level: siswa
+
+
+
