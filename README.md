@@ -16,3 +16,20 @@ Sistem Manajemen Sekolah (School Management System) adalah sebuah platform atau 
 7. **Laporan dan Analisis:** Sistem ini menghasilkan laporan komprehensif yang mencakup kinerja siswa, efektivitas pengajaran, dan status keuangan yang dapat dianalisis untuk perbaikan dan pengambilan keputusan manajemen.
 
 Dengan menggunakan Sistem Manajemen Sekolah, sekolah dapat meningkatkan efisiensi operasional, transparansi, serta memberikan pengalaman pendidikan yang lebih baik bagi siswa dan seluruh pemangku kepentingan.
+
+#NOTE: 
+Login as:admin
+username: admin@gmail.com
+pass: admin
+
+Login as:guru
+username: nip
+Pass: nip
+level: guru
+
+Login as:siswa
+username: nis
+Pass:nis
+level: siswa
+
+# For database you can import in folder db and running
